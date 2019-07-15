@@ -28,6 +28,12 @@ Repository for the **Introduction to Machine Learning and Deep Learning** course
 * https://github.com/justmarkham/pandas-videos
 * https://towardsdatascience.com/exploratory-data-analysis-with-pandas-and-jupyter-notebooks-36008090d813
 
+#### sklearn
+
+* https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+* https://www.dataquest.io/blog/sci-kit-learn-tutorial/
+* https://www.datacamp.com/community/tutorials/machine-learning-python
+
 #### Datacamp cheat sheets
 
 * https://www.datacamp.com/community/data-science-cheatsheets?page=3
