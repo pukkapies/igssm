@@ -10,6 +10,12 @@ Repository for the **Introduction to Machine Learning and Deep Learning** course
 
 * https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 
+#### Numpy
+
+* http://www.labri.fr/perso/nrougier/from-python-to-numpy/
+* https://www.machinelearningplus.com/numpy-tutorial-part1-array-python-examples/
+* http://cs231n.github.io/python-numpy-tutorial/
+
 #### Pandas
 
 * https://github.com/pandas-dev/pandas
