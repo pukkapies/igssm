@@ -16,6 +16,12 @@ Repository for the **Introduction to Machine Learning and Deep Learning** course
 * https://www.machinelearningplus.com/numpy-tutorial-part1-array-python-examples/
 * http://cs231n.github.io/python-numpy-tutorial/
 
+#### Matplotlib
+
+* https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html
+* https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596
+* https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html
+
 #### Pandas
 
 * https://github.com/pandas-dev/pandas
