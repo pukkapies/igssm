@@ -4,3 +4,4 @@
 *.dat
 *.npy
 **SVHN
+**MNIST
